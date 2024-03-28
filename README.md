@@ -1,6 +1,6 @@
 # QA Cheat Sheets 
 
-# Este repositorio contiene algunas cheatsheets que me resultan útiles como QA Automation
+## Este repositorio contiene algunas cheatsheets que me resultan útiles como QA Automation
 
 * Cypress
 
