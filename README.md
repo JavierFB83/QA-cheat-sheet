@@ -6,6 +6,7 @@
 
   * Cypress - Actions
   * Cypress - Assertions
+  * Cypress - Filtros para selectores
 
 * HTML y CSS
 
