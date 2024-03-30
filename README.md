@@ -7,6 +7,7 @@
   * Cypress - Actions
   * Cypress - Assertions
   * Cypress - Filtros para selectores
+  * Cypress - Instalación y configuración con POM & Cucumber
 
 * HTML y CSS
 
