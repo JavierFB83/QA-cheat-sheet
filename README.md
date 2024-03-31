@@ -10,6 +10,10 @@
   * Cypress - Instalación y configuración con POM & Cucumber
 
 * HTML y CSS
-
   * HTML
   * CSS
+    
+* Git
+  * Comandos Git 
+
+
